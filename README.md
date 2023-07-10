@@ -1,7 +1,8 @@
 # Content-Noise Complementary Learning for Medical Image Denoising
 
 This repository contains an implementation of the "Content-Noise Complementary Learning for Medical Image Denoising" paper by Mufeng Geng. 
-The original code was implemented by the author of the paper, Dr. Mufeng Geng, and has been adapted to run on Jupyter Notebook.
+
+- The original code was implemented by the author of the paper, Dr. Mufeng Geng, and has been adapted to run on Jupyter Notebook.
 The original repository link: https://github.com/gengmufeng/CNCL-denoising
 
 # Dataset
