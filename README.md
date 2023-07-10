@@ -16,5 +16,5 @@ To run the implementation, open the "CNCL_denoising.ipynb" notebook in Google Co
 # References
 
 - Mufeng Geng, Xiangxi Meng, Jiangyuan Yu, Lei Zhu, Lujia Jin, Zhe Jiang, Bin Qiu, Hui Li, Hanjing Kong, Jianmin Yuan, Kun Yang, Hongming Shan, Hongbin Han, Zhi Yang, Qiushi Ren, and Yanye Lu. "Content-Noise Complementary Learning for Medical Image Denoising".
-- 
+
 - Original implementation by Dr. Mufeng Geng: https://github.com/gengmufeng/CNCL-denoising ↗
