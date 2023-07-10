@@ -14,6 +14,11 @@ The trained CNCL-U-Net model for low-dose CT denoising is available at: https://
 # Usage
 To run the implementation, open the "CNCL_denoising.ipynb" notebook in Google Colaboratory and follow the instructions. The notebook contains all necessary code for loading the dataset, training the model, and evaluating the results.
 
+# Results
+
+![App Screenshot](https://raw.githubusercontent.com/kiananvari/Content-Noise-Complementary-Learning-for-Medical-Image-Denoising/main/Results/1.png)
+![App Screenshot](https://raw.githubusercontent.com/kiananvari/Content-Noise-Complementary-Learning-for-Medical-Image-Denoising/main/Results/2.png)
+
 # References
 
 - Mufeng Geng, Xiangxi Meng, Jiangyuan Yu, Lei Zhu, Lujia Jin, Zhe Jiang, Bin Qiu, Hui Li, Hanjing Kong, Jianmin Yuan, Kun Yang, Hongming Shan, Hongbin Han, Zhi Yang, Qiushi Ren, and Yanye Lu. "Content-Noise Complementary Learning for Medical Image Denoising".
